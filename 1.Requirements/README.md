@@ -1,3 +1,4 @@
+# Describtion:
 
 # Hardware:
  Arduino Board (preferably Uno)
@@ -6,8 +7,10 @@
  Breadboard
  Android phone 
  
-# Software
+# Software:
  ArduinoIDE : Arduino
  Arduino bluetooth Apk
+
+#SWOT
 
   
