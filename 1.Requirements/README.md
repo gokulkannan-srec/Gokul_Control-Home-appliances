@@ -11,7 +11,20 @@
  ArduinoIDE : Arduino
  Arduino bluetooth Apk
 
-![SWOT]
+# SWOT:
+# Strength:
+# Weekness:
+# Oppourtunities:
+# Threads:
+
+
+# $W's 1H:
+
+# WHO
+# WHAT
+# WHEN 
+# WHERE
+# HOW
 
 
   
