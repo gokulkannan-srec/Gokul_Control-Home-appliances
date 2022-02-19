@@ -14,7 +14,5 @@
 
 ![Result](https://user-images.githubusercontent.com/79297182/153617327-7a7fb5dc-4f5d-4007-b46b-c9aa8e9390b3.png)
 
-# Application
 
-![Application](https://user-images.githubusercontent.com/79297182/153617239-310a2cf5-6e55-402d-bc83-fba478968f10.png)
 
