@@ -1,14 +1,14 @@
 # Describtion:
 Appliance switches are modules that you plug into an outlet or, are an outlet themselves that you install in a gang box. These modules only turn on and off and are not dimmable. They control via Z-Wave and a home controller, the power to any item plugged into them.
 
-# Hardware:
+# High level requirement:
          Arduino Board (preferably Uno)
          Bluetooth Module (HC-05)
          Jumper Wires
          Breadboard
          Android phone 
  
-# Software:
+# Low level requirement:
          ArduinoIDE : Arduino
          Arduino bluetooth Apk
 
