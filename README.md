@@ -33,7 +33,7 @@ Folder             | Description
 |F_05| View All Transactions |
 
 ## REFERENCES
-https://github.com/gokulkannan-srec/M1_ProjectGoal_App/tree/main/
+
 
 https://www.researchgate.net/publication/316688934_Smart_home_automation_system_using_Bluetooth_technology
 
