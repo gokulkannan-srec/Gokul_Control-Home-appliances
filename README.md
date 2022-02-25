@@ -11,3 +11,6 @@
 
 ## Codequality
 [![Valgrind](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/codequality.yml/badge.svg)](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/codequality.yml)
+
+## Cppcheck
+[![cppcheck-action](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/cpp.yml/badge.svg)](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/cpp.yml)
