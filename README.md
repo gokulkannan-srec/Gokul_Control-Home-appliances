@@ -5,3 +5,6 @@
 # BADGES
 ## Build
 [![CI](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/build.yml/badge.svg)](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/build.yml)
+
+## Gitinspector
+[![Git Inspector](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/gitinspector.yml)
