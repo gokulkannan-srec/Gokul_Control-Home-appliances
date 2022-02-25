@@ -36,11 +36,11 @@ Folder             | Description
 ##  Features
 | Feature Id | Feature |
 | -----------|---------|
-|F_01| Valuable Products | |
-|F_02|View All Brand |
-|F_03| safety Things |
-|F_04| Order products |
-|F_05| View All Transactions |
+|F_01| More secure | |
+|F_02| remote access |
+|F_03| energy efficiency |
+|F_04| Appliance control |
+|F_05| Alarm systems |
 
 ## REFERENCES
 https://ieeexplore.ieee.org/document/8457423
