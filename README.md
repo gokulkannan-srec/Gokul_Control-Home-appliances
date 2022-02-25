@@ -8,3 +8,6 @@
 
 ## Gitinspector
 [![Git Inspector](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/gitinspector.yml)
+
+## Codequality
+[![Valgrind](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/codequality.yml/badge.svg)](https://github.com/gokulkannan-srec/M1_ProjectGoal_App/actions/workflows/codequality.yml)
