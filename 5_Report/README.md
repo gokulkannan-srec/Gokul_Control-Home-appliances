@@ -18,12 +18,4 @@
 
 # Conclusion:
   A home automation system based on voice recognition was built and implemented. The system is targetted at elderly and disabled people. The prototype developed 
-can control electrical devices in a home or office. The system implements Automatic Speech Recognition engines through Microsoft speech APIs. The system implements the wireless network using ZigBee RF modules for their efficiency and low power consumption. Multimedia streaming through the network was implemented with the help of the Differential Pulse Code Modulation (DPCM) compression algorithms that allows to compress the speech data to half of its original data size. The preliminary test results are promising.
-
-
-# References:
-   1.“An elegant home automation system using GSM and ARM-based architecture”, V.L.K.Bharadwaj Manda, Voona Kushal and N.Ramasubramanian.
-   https://ieeexplore.ieee.org/document/8457423
-
-   2.“Smart Home Automation System Using Bluetooth Technology”,Muhammad Asadullah.
-   https://www.researchgate.net/publication/316688934_Smart_home_automation_system_using_Bluetooth_technology
+can control electrical devices in a home or office. The system implements Automatic Speech Recognition engines through Microsoft speech APIs. The system implements the wireless network using ZigBee RF modules for their efficiency and low power consumption.
