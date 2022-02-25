@@ -6,4 +6,4 @@
 
  The test plan is also shared with Business Analysts, Project Managers, Dev teams, and anyone else associated with the project, This mainly offers transparency into QA activities so that all stakeholders know how the software will be tested.
 
- The plan is built by QA managers or leads based on input from QA (and sometimes, non-QA) team members. Creating it should not take more than 1/3rd of the time allocated for the entire project.
+ 
